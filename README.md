@@ -22,3 +22,7 @@ Web online para gestionar pasajeros, confirmaciones, pagos, cabañas y presupues
 Proyecto: `gauchito-gil-pasajeros`.
 
 Para que el login funcione desde GitHub Pages, agregar `comercio-3212.github.io` en Firebase Authentication > Configuración > Dominios autorizados.
+
+## Publicación
+
+El repositorio incluye un workflow de GitHub Pages para publicar automáticamente la web desde la rama `main`.
